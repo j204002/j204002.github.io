@@ -1,0 +1,12 @@
+# MU:note
+
+> MU:note is an iPhone practice log for musicians that counts only the time you actually play your instrument. It listens for the instrument you set — piano, strings, winds, voice, or guitar (acoustic and classical) — and leaves out silences longer than 15 seconds. Audio is analyzed on the device and never recorded. Made by munote, founded by Jisoo Kim, a music educator with a master's degree in music.
+
+## Guides
+
+- [Practice guides for musicians](https://oneumart.com/munote/guides/): research-checked guides on practice journals, daily practice time, practicing efficiently and staying motivated.
+
+## App
+
+- [MU:note (English)](https://oneumart.com/munote/index-en.html): what the app does, privacy, and FAQ.
+- [MU:note on the App Store](https://apps.apple.com/app/id6800597794)
