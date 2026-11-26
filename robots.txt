@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://oneumart.com/munote/sitemap.xml
-Sitemap: https://oneumart.com/piano/sitemap-index.xml
